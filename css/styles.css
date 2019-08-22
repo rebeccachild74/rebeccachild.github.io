@@ -98,7 +98,7 @@ header a {
 }
 
 header a:hover {
-    color: #7e7081;
+    color: #6687ff;
     text-decoration: none;
     background: #eee;
     border-radius: 4px
@@ -212,7 +212,7 @@ footer {
 }
 
 .social a:hover {
-    color: #E89FC8
+    color: #6687ff;
 }
 
 .btn-rounded-white {
@@ -255,7 +255,7 @@ footer {
     left: 0;
     right: 0;
     margin: 0 auto;
-    background: #E89FC8
+    background: #6687ff
 }
 
 .background-alt {
@@ -299,7 +299,7 @@ footer {
 }
 
 #lead-content h2 {
-    color: #E89FC8;
+    color: #99afff;
     font-weight: 500;
     font-size: 2.25em;
     margin-bottom: 15px
@@ -623,6 +623,7 @@ footer {
     -moz-transform:rotate(-7deg);
     -o-transform:rotate(-7deg);
     transform:rotate(-7deg);
+    background: #6687ff;
 }
 
 #contact {
@@ -633,7 +634,7 @@ footer {
 
 #contact h2 {
     margin: 0 0 15px 0;
-    color: #fff;
+    color: rgb(128, 0, 128);
     font-weight: 500
 }
 
